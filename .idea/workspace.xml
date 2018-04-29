@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77f82c22-1df6-4ba5-825c-80332c9dd8fa" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/GD/exemplo-04.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAO" beforeDir="false" afterPath="$PROJECT_DIR$/DAO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GD/exemplo-03.php" beforeDir="false" afterPath="$PROJECT_DIR$/GD/exemplo-03.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="exemplo-03.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GD/exemplo-03.php">
+      <file leaf-file-name="exemplo-04.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GD/exemplo-04.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="495">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -42,6 +43,7 @@
       <list>
         <option value="$PROJECT_DIR$/GD/exemplo-02.php" />
         <option value="$PROJECT_DIR$/GD/exemplo-03.php" />
+        <option value="$PROJECT_DIR$/GD/exemplo-04.php" />
       </list>
     </option>
   </component>
@@ -119,15 +121,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525015380956</updated>
-      <workItem from="1525015383184" duration="2488000" />
+      <workItem from="1525015383184" duration="3889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2488000" />
+    <option name="totallyTimeSpent" value="3889000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1216" y="0" width="464" height="1050" extended-state="6" />
+    <frame x="670" y="0" width="1010" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24927536" />
@@ -174,8 +176,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GD/exemplo-03.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GD/exemplo-04.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
