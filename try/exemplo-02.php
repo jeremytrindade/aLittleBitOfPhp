@@ -3,6 +3,7 @@
 function trataNome($name){
 
     if(!$name){
+
         throw new Exception("Nenhum nome foi informado.",1);
     }
 
@@ -11,12 +12,19 @@ function trataNome($name){
 }
 
 try{
+
     trataNome("João");
+
     trataNome("");
+
 } catch(Exception $e){
+
     echo $e->getMessage();
+
 } finally {
+
     echo "Executou o Try!";
+    
 }
 
 ?>
