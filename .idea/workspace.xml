@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77f82c22-1df6-4ba5-825c-80332c9dd8fa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/GD/exemplo-03.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAO" beforeDir="false" afterPath="$PROJECT_DIR$/DAO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GD/exemplo-03.php" beforeDir="false" afterPath="$PROJECT_DIR$/GD/exemplo-03.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +17,8 @@
       <file leaf-file-name="exemplo-03.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GD/exemplo-03.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -54,7 +54,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="1586" />
     <option name="width" value="94" />
     <option name="height" value="1050" />
@@ -119,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525015380956</updated>
-      <workItem from="1525015383184" duration="2052000" />
+      <workItem from="1525015383184" duration="2248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2052000" />
+    <option name="totallyTimeSpent" value="2248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="990" y="0" width="690" height="1050" extended-state="0" />
@@ -174,8 +174,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GD/exemplo-03.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
