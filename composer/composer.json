@@ -1,0 +1,15 @@
+{
+    "name": "jeremytrindade/composer",
+    "description": "Aula de PHP 7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jérémy DA TRINDADE",
+            "email": "jeremy@jeremytrindade.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
