@@ -18,9 +18,9 @@ $tpl->assign( "version", PHP_VERSION );
 // assign an array
 //$tpl->assign( "week", array( "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" ) );
 // draw the template
-$tpl->draw( "index" );
+$html = $tpl->draw( "index", true);
 
-$mail = new PHPMailer();
+$mail = new PHPMailer\PHPMailer\PHPMailer();
 //Tell PHPMailer to use SMTP
 $mail->isSMTP();
 
@@ -28,7 +28,7 @@ $mail->isSMTP();
 // 0 = off (for production use)
 // 1 = client messages
 // 2 = client and server messages
-$mail->SMTPDebug = 2;
+$mail->SMTPDebug = 0;
 
 //Set the hostname of the mail server
 $mail->Host = 'smtp.gmail.com';
