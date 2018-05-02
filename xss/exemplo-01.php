@@ -13,7 +13,7 @@ if (isset($_POST['busca'])) {
 
     //echo strip_tags($_POST['busca'], "<strong><a>");//sempre que for tag ele "elimina" mas podemos deixar fazer algumas e para isso temos de deixar depois da variavel como esta para o STRONG e para o A
 
-    echo htmlentities($_POST['busca']);//converte em entidade html
+    echo htmlentities($_POST['busca']);//converte em entidade html ou seja é como se fosse o valor de uma string "texto normal e nao tag"
 }
 
 ?>
